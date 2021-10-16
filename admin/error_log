@@ -1,0 +1,168 @@
+[09-Mar-2021 14:22:17 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/src/headers/cabecalholistar.php on line 3
+[09-Mar-2021 14:22:17 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarpizzas.php on line 50
+[09-Mar-2021 14:22:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarpizzas.php:52
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarpizzas.php on line 52
+[09-Mar-2021 14:22:21 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/src/headers/cabecalholistar.php on line 3
+[09-Mar-2021 14:22:21 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/listaresfihas.php on line 48
+[09-Mar-2021 14:22:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/listaresfihas.php:50
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/listaresfihas.php on line 50
+[09-Mar-2021 14:22:22 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/src/headers/cabecalholistar.php on line 3
+[09-Mar-2021 14:22:22 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarbebidas.php on line 47
+[09-Mar-2021 14:22:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarbebidas.php:49
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/listarbebidas.php on line 49
+[17-Apr-2021 23:46:47 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[17-Apr-2021 23:46:47 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[17-Apr-2021 23:46:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[17-Apr-2021 23:46:53 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[17-Apr-2021 23:46:53 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[17-Apr-2021 23:46:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[17-Apr-2021 23:47:00 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 5
+[17-Apr-2021 23:47:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 60
+[17-Apr-2021 23:47:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 62
+[17-Apr-2021 23:47:07 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[17-Apr-2021 23:47:07 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[17-Apr-2021 23:47:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[19-May-2021 22:54:12 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:54:12 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:54:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:55:09 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:55:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:55:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:55:49 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:55:49 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:55:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:55:50 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:55:50 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:55:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:56:15 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:56:15 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:56:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:56:51 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:56:51 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:56:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:59:00 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:59:00 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:59:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[19-May-2021 22:59:37 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[19-May-2021 22:59:37 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[19-May-2021 22:59:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 13:40:50 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[21-May-2021 13:40:50 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[21-May-2021 13:40:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 13:41:12 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[21-May-2021 13:41:12 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[21-May-2021 13:41:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 13:43:41 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[21-May-2021 13:43:41 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[21-May-2021 13:43:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 13:43:46 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[21-May-2021 13:43:46 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[21-May-2021 13:43:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 15:06:38 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 5
+[21-May-2021 15:06:38 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 60
+[21-May-2021 15:06:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarpizza.php on line 62
+[21-May-2021 15:11:35 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 5
+[21-May-2021 15:11:35 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 60
+[21-May-2021 15:11:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editaresfiha.php on line 62
+[11-Jun-2021 14:33:09 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:33:09 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:33:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:33:33 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:33:33 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:33:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:34:15 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:34:15 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:34:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:34:52 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:34:52 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:34:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:38:25 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:38:25 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:38:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:39:45 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:39:45 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:39:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63
+[11-Jun-2021 14:57:03 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'u630607413_michelangelo'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 5
+[11-Jun-2021 14:57:03 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 61
+[11-Jun-2021 14:57:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/admin/editarbebida.php on line 63

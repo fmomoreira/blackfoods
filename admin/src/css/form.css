@@ -1,0 +1,12 @@
+#tituloedit{
+    text-transform: uppercase;
+    color: #007bff;
+    font-weight: 500;
+}
+
+input, select{
+    border-top: none!important;
+    border-right: none!important;
+    
+    margin-bottom: 2rem;
+}

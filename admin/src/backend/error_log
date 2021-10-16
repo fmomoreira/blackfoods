@@ -1,0 +1,25 @@
+[20-Sep-2021 22:17:25 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'worl7587_black_foods'@'localhost' (using password: YES) in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/conecta.php on line 5
+[20-Sep-2021 22:17:25 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 12
+[20-Sep-2021 22:17:25 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 13
+[20-Sep-2021 22:17:25 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 17
+[20-Sep-2021 22:17:25 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 18
+[20-Sep-2021 22:18:08 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'worl7587_black_foods'@'localhost' (using password: YES) in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/conecta.php on line 5
+[20-Sep-2021 22:18:08 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 12
+[20-Sep-2021 22:18:08 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 13
+[20-Sep-2021 22:18:08 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 17
+[20-Sep-2021 22:18:08 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 18
+[20-Sep-2021 22:19:13 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'worl7587_black_foods'@'localhost' (using password: YES) in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/conecta.php on line 5
+[20-Sep-2021 22:19:13 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 12
+[20-Sep-2021 22:19:13 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 13
+[20-Sep-2021 22:19:13 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 17
+[20-Sep-2021 22:19:13 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 18
+[20-Sep-2021 22:20:22 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'worl7587_black_foods'@'localhost' (using password: YES) in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/conecta.php on line 5
+[20-Sep-2021 22:20:22 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 12
+[20-Sep-2021 22:20:22 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 13
+[20-Sep-2021 22:20:22 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 17
+[20-Sep-2021 22:20:22 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 18
+[20-Sep-2021 22:21:08 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'worl7587_black_foods'@'localhost' (using password: YES) in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/conecta.php on line 5
+[20-Sep-2021 22:21:08 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 12
+[20-Sep-2021 22:21:08 America/Fortaleza] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 13
+[20-Sep-2021 22:21:08 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 17
+[20-Sep-2021 22:21:08 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/worl7587/blackfoodspizza.com.br/admin/src/backend/valida.php on line 18

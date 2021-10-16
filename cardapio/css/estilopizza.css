@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,300;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(12, 12, 12);
+    
+}
+input{
+    color: black!important;
+    font-weight: bold!important;
+}
+nav{
+    font-family: 'Great Vibes', cursive;
+    background-color: #0a0a0a42!important;
+    width: 100%!important;
+    display: flex!important;
+    justify-content: center!important
+}
+.bg-light {
+    background-color: #0a0a0a!important;
+}
+#spanlogo{
+    font-family: 'Great Vibes', cursive;
+    font-size:2rem;
+    color: #ffd700;
+   
+}
+
+#menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardapio{
+display: flex;
+flex-wrap: wrap;
+width: 100%;
+justify-content: center;
+}
+
+
+.titulosecao{
+    width: 100%;
+    margin: 4rem 1rem 4rem 1rem;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+.opcao{
+    
+    margin: 1.5rem;
+    border-left: 2px dotted #fc7100;
+    border-bottom: 2px dotted #fc7100;
+    padding-bottom: 1rem;
+    border-radius: 20px;
+    padding-right: 1rem;
+    width: 18rem;
+}
+
+.opcao li{
+padding: 5px;
+}
+.ingredientes{
+    font-size: 14px;
+    margin-top: 1rem;
+    
+}
+
+
+ul {
+    list-style-type: none;
+    }
+
+ #nomepizza{
+     color: #f10000;
+     text-transform: uppercase; 
+     font-size: 20px!important;
+ }   
+
+ .pedirpizza{
+     
+    margin-top: 2rem;
+    background-color: #a00101;
+    border: noe;
+    border: none!important;
+    color: white!important;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 0 #b9b7b74d;
+    
+ }
+ .espacocomprar{
+     width: 100%;
+     display: flex;
+     justify-content: flex-end;
+ }
+ .pizzaepreco{
+     display: flex;
+     justify-content: space-between;
+ }
+ .nomeepreco{
+    width: min-content;
+ }
+
+
+.newopcao{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 18rem;
+padding-left: 2rem;
+padding-right: 2rem;
+padding-bottom: 2rem;
+background-color: #0a0a0ac4;
+border-radius: 10px;
+margin:1rem;
+}
+
+.preco{
+    font-size: 14px;
+    color: #ffffffba;
+    text-transform: uppercase;
+
+
+}
+
+.newopcao img {
+    width: 180px;
+    border-radius: 100px;
+    margin-bottom: 2rem;
+    margin-top:2rem;  
+
+}
+
+.invisivel {
+    display: none;
+}
+
+.visivel {
+    display: flex;
+}
+
+.titulo{
+    margin-bottom: 1rem;
+}
+
+.ingredientes{
+    text-transform: uppercase;
+    color: #ffd700;
+    font-size: small;
+    width: max-content;
+}
+
+#nomepizza{
+
+    color: #f10000;
+    text-transform: uppercase;
+    font-size: 20px!important;
+}
+
+.numeropizza{
+    font-size: 22px!important;
+    text-transform: uppercase;
+    color: red;
+    font-size: small;
+    padding-right: 1rem;
+}
+
+.whatsapp{
+    width: 60px;
+    position: fixed;
+    bottom: 1px;
+    right: 1px;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    
+}
+
+#bebidas .newopcao{
+    padding-top:2rem;
+}
+
+#promocao .newopcao{
+    background-color: yellow!important;
+}
+#promocao .ingredientes{
+   color: #000000 ;
+}
+#promocao .preco{
+   color: #6b1414; 
+}
+#promocao h1{
+    color: #f10000;
+}   
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 100%!important;
+    padding-left: 37%!important;
+}
+
+
+#encontrado{
+color: white;
+font-size: 18px;
+font: bold;
+}
+
+#naoencontrado{
+    color: white;
+    font-size: 18px;
+    font: bold;
+}
+
+
+
+
+
+@media only screen and (max-width: 769px) {
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 100%!important;
+        padding-left: 7%!important;
+        }
+
+        #encontrado{
+            color: white;
+            font-size: 14px;
+            font: bold;
+            }
+            
+            #naoencontrado{
+                color: white;
+                font-size: 14px;
+                font: bold;
+            }
+            
+  }

@@ -1,0 +1,38 @@
+[09-Mar-2021 13:50:14 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 13:50:14 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 13:50:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 14:02:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:02:58 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 14:02:58 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 14:02:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:03:14 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 14:03:14 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 14:03:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:04:43 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'worl7587_pizzariamichelangelo'@'localhost' to database 'worl7587_pizzaria_michelangelo' in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 3
+[09-Mar-2021 14:04:43 America/Fortaleza] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 39
+[09-Mar-2021 14:04:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 41
+[09-Mar-2021 14:17:42 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'worl7587_fmomoreira'@'localhost' (using password: YES) in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 20
+[09-Mar-2021 14:17:42 America/Fortaleza] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home1/worl7587/pizzariamichelangelo.com.br/cardapio/index.php on line 20
